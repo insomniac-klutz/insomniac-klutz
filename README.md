@@ -4,22 +4,12 @@ I'm pursuing bachelors in **Computer Science and Engineering** from [**The LNM I
 
 _My interest areas are **Deep Learning, Computer Vision,Natural Language Processing** and **Machine Learning**_
 
-<!--
-**insomniac-klutz/insomniac-klutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some Projects that I have worked upon:
 
-Here are some ideas to get you started:
+   I. [NBA-MVP-2020-Regression-Analysis](https://github.com/insomniac-klutz/NBA-MVP-2020-EDA)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![](https://img.shields.io/badge/-@sankalp-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-chourasia-2102/)
+My Linkedin profile --> [![](https://img.shields.io/badge/-@sankalp-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-chourasia-2102/)
 
 
 ![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=insomniac-klutz&hide=contribs&show_icons=true&theme=radical)
