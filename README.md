@@ -2,7 +2,7 @@
 
 I'm pursuing bachelors in **Computer Science and Engineering** from [**The LNM Institute of Information Technology**](https://lnmiit.ac.in/) 
 
-_My interest areas are **Deep Learning, Computer Vision,Natural Language Processing** and **Machine Learning**_
+_My interest areas are **Computer Vision,Natural Language Processing** and **Supervised Machine Learning**_
 
 Some Projects that I have worked upon:
 
