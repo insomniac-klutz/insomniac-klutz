@@ -7,6 +7,7 @@ _My interest areas are **Deep Learning, Computer Vision,Natural Language Process
 Some Projects that I have worked upon:
 
    I. [NBA-MVP-2020-Regression-Analysis](https://github.com/insomniac-klutz/NBA-MVP-2020-EDA)
+   
    II.[Bank-Marketing-Classification-Analysis](https://github.com/insomniac-klutz/Machine-Learning-Dummy/tree/main/Classification/0002%20Bank-Marketing-UCI)
   
 
