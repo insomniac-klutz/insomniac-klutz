@@ -40,6 +40,12 @@
 </tr>
 <tr>
 <td align="center" width="140">
+<a href="https://github.com/insomniac-klutz/antiHeuristik"><b>antiHeuristik</b></a>
+</td>
+<td>Theory, minus the parts that exist to justify someone's thesis — learn what to do with it, then ask why and how</td>
+</tr>
+<tr>
+<td align="center" width="140">
 <a href="https://github.com/insomniac-klutz/SynaptiCore"><b>SynaptiCore</b></a>
 </td>
 <td>Wiring up language models until they grow their own nervous system — natively agentic apps that think, act, and occasionally surprise you</td>
