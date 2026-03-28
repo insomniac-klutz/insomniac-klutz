@@ -34,6 +34,12 @@
 </tr>
 <tr>
 <td align="center" width="140">
+<a href="https://github.com/insomniac-klutz/antiHeuristik"><b>antiHeuristik</b></a>
+</td>
+<td>Theory, minus the parts that exist to justify someone's thesis — learn what to do with it, then ask why and how</td>
+</tr>
+<tr>
+<td align="center" width="140">
 <a href="https://github.com/insomniac-klutz/clinQuest"><b>clinQuest</b></a>
 </td>
 <td>Side-quests in clinical data — because every patient journey deserves a storyline</td>
@@ -43,12 +49,6 @@
 <a href="https://github.com/insomniac-klutz/ClinCodeX"><b>ClinCodeX</b></a>
 </td>
 <td>Turning messy clinical notes into precise codes so humans don't have to — end-to-end automated clinical coding that retrieves before it believes</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<a href="https://github.com/insomniac-klutz/antiHeuristik"><b>antiHeuristik</b></a>
-</td>
-<td>Theory, minus the parts that exist to justify someone's thesis — learn what to do with it, then ask why and how</td>
 </tr>
 <tr>
 <td align="center" width="140">
