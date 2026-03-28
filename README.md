@@ -22,27 +22,9 @@
 <table>
 <tr>
 <td align="center" width="140">
-<a href="https://github.com/insomniac-klutz/driftLab"><b>driftLab</b></a>
-</td>
-<td>Your idle capital called — it wants a job. Autonomous cash optimization that thinks top-down and hustles bottom-up</td>
-</tr>
-<tr>
-<td align="center" width="140">
 <a href="https://github.com/insomniac-klutz/wyrdMonke"><b>wyrdMonke</b></a>
 </td>
 <td>monke write code, monke ship. A full SDLC-in-a-box that gives your AI a checklist before it goes bananas</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<a href="https://github.com/insomniac-klutz/clinQuest"><b>clinQuest</b></a>
-</td>
-<td>Side-quests in clinical data — because every patient journey deserves a storyline</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<a href="https://github.com/insomniac-klutz/antiHeuristik"><b>antiHeuristik</b></a>
-</td>
-<td>Theory, minus the parts that exist to justify someone's thesis — learn what to do with it, then ask why and how</td>
 </tr>
 <tr>
 <td align="center" width="140">
@@ -52,8 +34,26 @@
 </tr>
 <tr>
 <td align="center" width="140">
+<a href="https://github.com/insomniac-klutz/clinQuest"><b>clinQuest</b></a>
+</td>
+<td>Side-quests in clinical data — because every patient journey deserves a storyline</td>
+</tr>
+<tr>
+<td align="center" width="140">
 <a href="https://github.com/insomniac-klutz/ClinCodeX"><b>ClinCodeX</b></a>
 </td>
 <td>Turning messy clinical notes into precise codes so humans don't have to — end-to-end automated clinical coding that retrieves before it believes</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<a href="https://github.com/insomniac-klutz/antiHeuristik"><b>antiHeuristik</b></a>
+</td>
+<td>Theory, minus the parts that exist to justify someone's thesis — learn what to do with it, then ask why and how</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<a href="https://github.com/insomniac-klutz/driftLab"><b>driftLab</b></a>
+</td>
+<td>Your idle capital called — it wants a job. Autonomous cash optimization that thinks top-down and hustles bottom-up</td>
 </tr>
 </table>
